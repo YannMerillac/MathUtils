@@ -5,7 +5,7 @@
  *      Author: ymerillac
  */
 
-#include "RBFinterp/RBFinterp.h"
+#include "RBFinterp.h"
 #include <cstring>
 #include <iostream>
 #include <math.h>
